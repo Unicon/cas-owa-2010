@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\casowa" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="CasOwa" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/CasOwa.dll" publishTime="03/29/2012 12:28:47" />
+    <file relUrl="bin/DotNetCasClient.xml" publishTime="03/29/2012 12:15:52" />
+    <file relUrl="packages.config" publishTime="03/29/2012 12:15:53" />
+    <file relUrl="bin/log4net.dll" publishTime="01/06/2010 03:27:34" />
+    <file relUrl="bin/CasOwa.pdb" publishTime="03/29/2012 12:28:47" />
+    <file relUrl="Web.config" publishTime="03/29/2012 13:29:46" />
+    <file relUrl="bin/DotNetCasClient.pdb" publishTime="03/29/2012 12:15:52" />
+    <file relUrl="Default.aspx" publishTime="03/29/2012 12:08:27" />
+    <file relUrl="bin/DotNetCasClient.dll" publishTime="03/29/2012 12:15:52" />
+  </publishProfile>
+</publishData>
