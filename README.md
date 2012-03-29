@@ -2,4 +2,4 @@ CasOwa2010 is based on the CasOwa project developed by Bill Thompson (https://gi
 This project only applies the changes needed for OWA 2010.
 
 See here for instructions:
-https://wiki.jasig.org/display/CAS/Outlook+Web+Access+2010 
+https://wiki.jasig.org/display/CAS/CASifying+Outlook+Web+Access+2010 
